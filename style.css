@@ -16,6 +16,7 @@ body {
 
 .card {
     box-shadow: 2px 2px 2px 2px grey;
+    background-color: cornsilk;
     border-radius: 2gpx;
     width: 300px;
     display: flex;
@@ -37,6 +38,7 @@ img {
 }
 
 figcaption {
+    background-color: cornsilk;
     margin-inline-start: 1rem;
     padding-block-end: .5rem;
     display: flex;
